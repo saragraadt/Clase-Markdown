@@ -61,6 +61,8 @@ sangria con TAB o 4 espacios
    con direccion de imagen  
 
      Imagen con link: [![imagen a p5](
+     primer link es de la imagen  
+     segundo link es de la direccionde pagina
    
    
    
