@@ -47,8 +47,13 @@ sangria con TAB o 4 espacios
       2. subelemento
      
     # Link y Imagenes
-   Links: [Nombre de la web] (link)
+   Links: [Nombre de la web] (link) : [p5.js]
    
-   Imagen: ![Texto alternativo] (link)
-   Imagen con link: [![ texto alternativo] (uri-imagen)
+   Imagen: ![Texto alternativo] (link) : ![imagen p5]
+   Imagen con link: [![ texto alternativo] (uri-imagen) : [![imahhgen a p5]
+   Quedaria asi:
+ Links:  [p5.js](https://es.pngtree.com/so/flores-de-orquideas)
+   imagen: ![imagen p5](https://es.pngtree.com/so/flores-de-orquideas)
+   
+   
    
