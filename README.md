@@ -50,10 +50,17 @@ sangria con TAB o 4 espacios
    Links: [Nombre de la web] (link) : [p5.js]
    
    Imagen: ![Texto alternativo] (link) : ![imagen p5]
+   
    Imagen con link: [![ texto alternativo] (uri-imagen) : [![imahhgen a p5]
-   Quedaria asi:
- Links:  [p5.js](https://es.pngtree.com/so/flores-de-orquideas)
-   imagen: ![imagen p5](https://es.pngtree.com/so/flores-de-orquideas)
+
+    # Quedaria asi:
+   
+ Links:  [p5.js](https://es.pngtree.com/so/flores-de-orquideas)  
+ 
+   imagen: ![imagen p5](https://png.pngtree.com/png-vector/20240914/ourmid/pngtree-orchid-flower-download-png-image_13587207.png)  
+   con direccion de imagen  
+
+     Imagen con link: [![imagen a p5](
    
    
    
