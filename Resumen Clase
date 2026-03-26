@@ -1,1 +1,59 @@
-#Historia de la Computacion
+# Historia de la Computacion  
+**Tipo de Maquinas**  
+*Maquina Diferencial*  1822  
+Charles Babbage  
+*Maquina Analitica* 1834-1837  
+Se considera la primera máquina de cálculo completamente automática.
+
+*Telar de Jacquard* 1801  
+Joseph Marie Jacquard  
+1. Tarjetas Automatizadas/ Tarjetas perforadas
+2. sistema Binario 
+3. Separacion entre hardware y software  
+  1. Hardware: telar/ la maquina fisica  
+  2.Software: las tarjetas perforadas  
+4. El pixel y la imagen
+
+
+*Ada Lovelace*  
+Fue la primera programadora, haciendo una invension en la maquina analitica  
+Expreso sus ideas a babbage sobtre las tarjetas perforadas,entendiendo su potencial revolucionario.  
+
+*Maquina de Turing* 1948  
+Es una maquina teorica  
+
+**Despertar Visual**
+Arte computacional 1960, primer grupo de artistas en trabajar con tecniologia  
+CTO: computer techniec group  
+Su primera exposision fue en londres llamada: Cybernetic Serendipity  
+
+*Argentina* 1963  
+Arte y Cibernetica por Jorge Glusberg  
+
+
+*John y James Whitney*
+Diseño parametrico y movimiento armenico  
+*Ivan Sutherland* 1963 
+Creo el lapiz optioco/sketchpal  
+
+*douglas engelbart* 1968
+creo el primer mouse  
+
+
+**Democratizacion**  
+Software Libre 1983 : sistrema operativo libre  
+1. libertad 0: uso libre  
+2. libertad 1: estudio  
+3. libertad 2: dstribucion  
+
+*John Maeda* 1999  
+creo Design by numbers para enseñar a diseñadores a programar  
+El computador no es una herramienta, es una nueva materia  
+interseccion+ arte + diseño  
+Libro: how to speak machine  
+
+*Cosey Reas y Ben Fry*  
+Nuevo programa inspirado en design by numbers, pero para artistas con mas herramientas,colores,formas..  
+
+*Lauren Mccarthy*  
+P5.JS: es una hheramienta muy amigable para aprender a programar 
